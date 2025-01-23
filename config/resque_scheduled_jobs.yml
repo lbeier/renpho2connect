@@ -1,0 +1,6 @@
+check_citas:
+  cron: "* * * * *"
+  class: "AppointmentJob"
+  queue: default
+  args:
+    user_id: 1

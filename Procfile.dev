@@ -1,0 +1,4 @@
+web: bin/rails server -p 3000
+worker_renpho: QUEUE=renpho bin/rake resque:work
+worker_garmin: QUEUE=garmin bin/rake resque:work
+scheduler: bin/rake resque:scheduler
