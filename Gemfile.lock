@@ -284,7 +284,7 @@ GEM
       rack-protection (= 4.1.1)
       rack-session (>= 2.0.0, < 3)
       tilt (~> 2.0)
-    solid_cable (3.0.5)
+    solid_cable (3.0.6)
       actioncable (>= 7.2)
       activejob (>= 7.2)
       activerecord (>= 7.2)
