@@ -1,4 +1,4 @@
-development: 10.0.0.2:6379
+development: 10.0.0.114:6379
 # test: localhost:6379
 # staging: redis1.se.github.com:6379
 # fi: localhost:6379

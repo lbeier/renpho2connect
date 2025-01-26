@@ -1,4 +1,4 @@
-check_citas:
+renpho_pull:
   cron: "* * * * *"
   class: "AppointmentJob"
   queue: default
